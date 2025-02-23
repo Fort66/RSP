@@ -8,4 +8,4 @@ This is a project for students of the educational institution where I teach Pyth
 2. writing a game in python and pygame
 3. exploring the issue of creating a graphical interface in python and pygame
 4. studying the issue of documenting the project code
-5. Working with Git, uploading your pet project to the version control system.
+5. Working with Git, uploading your pet-project to the version control system.
