@@ -1,4 +1,5 @@
 from pygame.font import SysFont
+
 from dataclasses import dataclass
 
 

@@ -1,12 +1,12 @@
 import pygame as pg
-from loguru import logger
+# from loguru import logger
 
 from sys import exit
 
 pg.init()
 
 
-@logger.catch
+# @logger.catch
 def main():
     from classes.class_Game import Game
     game = Game()

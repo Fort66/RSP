@@ -1,4 +1,7 @@
-from dataclasses import dataclass, InitVar
+from dataclasses import (
+    dataclass,
+    InitVar
+    )
 
 
 @dataclass

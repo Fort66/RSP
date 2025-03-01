@@ -1,7 +1,13 @@
 from UI.class_DrawText import DrawText
 from UI.class_TextGroup import TextGroup
 
-from config.create_Objects import screen, fonts, colors, rounds_counter, scores
+from config.create_Objects import (
+    screen,
+    fonts,
+    colors,
+    rounds_counter,
+    scores
+    )
 
 
 def create_text():

@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-
+@dataclass
 class IsChoice:
     """
     A simple class to represent a boolean choice.

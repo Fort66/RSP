@@ -1,8 +1,19 @@
 import pygame as pg
-from pygame.locals import MOUSEMOTION, MOUSEBUTTONDOWN, MOUSEBUTTONUP
-from pygame.font import Font, SysFont
+from pygame.locals import (
+    MOUSEMOTION,
+    MOUSEBUTTONDOWN,
+    MOUSEBUTTONUP
+    )
+from pygame.font import (
+    Font,
+    SysFont
+    )
 
-from dataclasses import dataclass, field, InitVar
+from dataclasses import (
+    dataclass,
+    field,
+    InitVar
+    )
 
 
 @dataclass

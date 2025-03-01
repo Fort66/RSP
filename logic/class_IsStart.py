@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-
+@dataclass
 class IsStart:
     """
     A simple class to manage a boolean state indicating whether something has started or not.

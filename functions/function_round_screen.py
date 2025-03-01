@@ -1,4 +1,8 @@
-from config.create_Objects import computer, player, scores
+from config.create_Objects import (
+    computer,
+    player,
+    scores
+    )
 
 
 def round_screen():

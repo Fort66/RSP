@@ -1,4 +1,8 @@
-from config.create_Objects import player, computer, scores
+from config.create_Objects import (
+    player,
+    computer,
+    scores
+    )
 
 
 def win_screen():

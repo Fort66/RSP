@@ -1,4 +1,9 @@
-from config.create_Objects import screen, btn_group, player, computer
+from config.create_Objects import (
+    screen,
+    btn_group,
+    player,
+    computer
+    )
 
 
 def start_screen():

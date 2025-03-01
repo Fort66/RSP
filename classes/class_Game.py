@@ -1,6 +1,4 @@
 import pygame as pg
-from pygame.locals import QUIT, K_ESCAPE, KEYDOWN
-
 
 from config.create_Objects import (
     screen,

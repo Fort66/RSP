@@ -1,4 +1,7 @@
-from config.create_Objects import computer, player
+from config.create_Objects import (
+    computer,
+    player
+    )
 
 
 def rotation_screen():

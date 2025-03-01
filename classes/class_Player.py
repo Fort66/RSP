@@ -1,10 +1,17 @@
-from pygame.transform import rotozoom, flip, scale_by
+from pygame.transform import (
+    rotozoom,
+    flip,
+    scale_by
+    )
 from pygame.image import load
 
 from random import choice
 from collections import OrderedDict
 
-from dataclasses import dataclass, field
+from dataclasses import (
+    dataclass,
+    field
+    )
 
 
 @dataclass

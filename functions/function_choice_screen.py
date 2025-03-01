@@ -1,4 +1,10 @@
-from config.create_Objects import screen, btn_group, player, computer, is_choice
+from config.create_Objects import (
+    screen,
+    btn_group,
+    player,
+    computer,
+    is_choice
+    )
 
 
 def choice_screen():
